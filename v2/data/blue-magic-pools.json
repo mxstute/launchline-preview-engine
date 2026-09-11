@@ -1,0 +1,31 @@
+{
+  "slug": "blue-magic-pools",
+  "businessName": "Blue Magic Pools",
+  "template": "pool-specialist",
+  "city": "Miami, Florida",
+  "phone": "+17862512470",
+  "phoneDisplay": "(786) 251-2470",
+  "specialty": "Pool leak detection & repair",
+  "description": "Blue Magic Pools specializes in pool leaks in Miami. Tell us what you have noticed and ask about the next step for your pool.",
+  "contactSource": "https://nextdoor.com/pages/blue-magic-pools-miami-fl/",
+  "reviewedOn": "2026-09-11",
+  "outreachApproved": false,
+  "services": [
+    {"id":"detection","number":"01","title":"Find the leak.","label":"Leak detection","description":"Losing water without an obvious explanation? Talk with a pool-leak specialist about what you are seeing and the inspection your pool may need.","note":"Start with the water loss. Not the guesswork.","icon":"search","source":"https://nextdoor.com/pages/blue-magic-pools-miami-fl/"},
+    {"id":"repair","number":"02","title":"Address the problem.","label":"Pool leak repair","description":"Already know there is a leak? Discuss the location, previous findings, and the repair options for your particular pool.","note":"A repair conversation built around your pool.","icon":"tool","source":"https://local.yahoo.com/info-88737751-blue-magic-pools-miami/"},
+    {"id":"skimmer","number":"03","title":"Look a little closer.","label":"Skimmer leak issues","description":"Water loss near the skimmer deserves a closer look. Ask Blue Magic Pools about inspection and repair options before deciding what needs replacing.","note":"Understand the issue before choosing the fix.","icon":"water","source":"https://www.yellowpages.com/nationwide/mip/blue-magic-pool-nic-services-corp-462544370"}
+  ],
+  "reviews": [
+    {"text":"He was reliable and fair with the price.","author":"S. H.","context":"Public recommendation","platform":"Nextdoor","source":"https://nextdoor.com/pages/blue-magic-pools-miami-fl/"},
+    {"text":"Their team is highly experienced and handled the issue professionally and promptly.","author":"Simon O.","context":"May 2024 review excerpt","platform":"Yelp via Yahoo","source":"https://local.yahoo.com/info-88737751-blue-magic-pools-miami/"},
+    {"text":"It looks great now and the best part no leaks!!!","author":"Camilo J.","context":"October 2020 review excerpt","platform":"Yellow Pages","source":"https://www.yellowpages.com/nationwide/mip/blue-magic-pool-nic-services-corp-462544370"}
+  ],
+  "media": {
+    "hero": {"url":"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=2000&q=85","mobileUrl":"https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?auto=format&fit=crop&w=900&q=80","alt":"Sunlit swimming pool with turquoise water and surrounding greenery","kind":"stock","source":"https://unsplash.com/photos/1576013551627-0cc20b96c2a7","license":"Unsplash License — verify source identity in MEDIA.md"},
+    "detail": {"url":"https://images.unsplash.com/photo-1683636799861-4372af89d47b?auto=format&fit=crop&w=1000&q=85","alt":"Palm shadow falling across clear turquoise pool water","kind":"stock","source":"https://unsplash.com/photos/uVnSWI5s7gg","license":"Unsplash License"},
+    "lifestyle": {"url":"https://images.unsplash.com/photo-1572331165267-854da2b10ccc?auto=format&fit=crop&w=1600&q=85","alt":"Swimming pool and architecture in warm natural light","kind":"stock","source":"https://unsplash.com/photos/1572331165267-854da2b10ccc","license":"Unsplash License — verify source identity in MEDIA.md"}
+  },
+  "excludedClaims": ["Unverified 663-review aggregate", "Guaranteed same-day availability", "Free estimates", "Unverified licenses or certifications", "Stock images described as company projects", "Pool construction or routine maintenance not established by the matched business profile"],
+  "qa": {"contactMatched":true,"sourceReviewComplete":true,"visualReviewComplete":false,"ownerApproved":false},
+  "notes": "Design-review preview. Services and brief review excerpts are grounded in the linked profiles; the business has not approved the copy or supplied project photography. Do not infer review aggregates from sales notes. Existing v1 batch is not an approved outreach queue."
+}
