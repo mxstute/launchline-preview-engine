@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {ROOT,validate,renderPool} from '../src/v2/render.mjs';
+const d=JSON.parse(fs.readFileSync(path.join(ROOT,'data/curated/blue-magic-pools.json'),'utf8'));
+assert.equal(validate(d),true);const html=renderPool(d);
+assert.ok(html.includes('tel:+17862512470'));assert.ok(html.includes('noindex,nofollow,noarchive'));
+assert.ok(!html.includes('strongest service-business fit'));assert.ok(!html.includes('663'));
+assert.ok(!html.includes('<form'));assert.ok(!html.includes('manifest.json'));assert.ok(!/\{\{[A-Z_]+\}\}/.test(html));
+for(const id of ['services','approach','reviews','contact','questions','mobile-nav'])assert.ok(html.includes(`id="${id}"`));
+for(const r of d.reviews)assert.ok(html.includes(r.text));
+assert.throws(()=>validate({...d,phone:''}));assert.throws(()=>validate({...d,services:[{title:'test',text:'test'}]}));
+assert.throws(()=>validate({...d,template:'barber'}));assert.throws(()=>validate({...d,assets:[]}));
+assert.throws(()=>validate({...d,heroDescription:'lorem ipsum'}));
+const hostile=renderPool({...d,businessName:'<script>alert(1)</script>'});assert.ok(hostile.includes('&lt;script&gt;'));assert.ok(!hostile.includes('<script>alert(1)'));
+console.log('v2 checks passed: rendering, source gates, missing data, contact links, no internal-note leakage, escaping, and template selection.');
