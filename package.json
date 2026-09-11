@@ -1,0 +1,11 @@
+{
+  "name": "launchline-preview-first-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node src/generate.mjs",
+    "serve": "node src/serve.mjs"
+  },
+  "engines": {"node": ">=18"}
+}

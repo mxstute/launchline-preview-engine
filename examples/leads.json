@@ -1,0 +1,24 @@
+[
+  {
+    "business_name":"Blue Magic Pools",
+    "vertical":"Home Services",
+    "city":"Miami",
+    "phone":"+1 786-251-2470",
+    "rating":5.0,
+    "review_count":665,
+    "verified_observation":"Blue Magic Pools already has strong public reputation signals, but its web presence can do more to turn local discovery into quote requests.",
+    "services":["Pool Cleaning","Pool Maintenance","Pool Repair"],
+    "cta":"Request a Quote"
+  },
+  {
+    "business_name":"Elite Barbershop Doral",
+    "vertical":"Barber/Booking",
+    "city":"Doral",
+    "phone":"+1 305-639-8260",
+    "rating":4.9,
+    "review_count":399,
+    "verified_observation":"Elite Barbershop Doral has a strong local reputation and an obvious opportunity to make booking and service discovery easier on mobile.",
+    "services":["Haircuts","Fades","Beard Grooming"],
+    "cta":"Book an Appointment"
+  }
+]

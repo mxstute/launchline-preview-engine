@@ -1,0 +1,18 @@
+[
+  {
+    "business_name": "Blue Magic Pools",
+    "slug": "blue-magic-pools",
+    "preview_url": "/blue-magic-pools/",
+    "phone": "+1 786-251-2470",
+    "email": "",
+    "vertical": "Home Services"
+  },
+  {
+    "business_name": "Elite Barbershop Doral",
+    "slug": "elite-barbershop-doral",
+    "preview_url": "/elite-barbershop-doral/",
+    "phone": "+1 305-639-8260",
+    "email": "",
+    "vertical": "Barber/Booking"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "business_name": "Beauty EXPO \u2018The Hair, Beauty & Barber Supply Warehouse\u2019",
+    "vertical": "Retail/e-commerce catalog + local discovery",
+    "city": "Miami",
+    "phone": "+1 305-232-0295",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Large warehouse-style beauty/barber supply store; build catalog/discovery preview.",
+    "services": [
+      "Products & Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "Blue Magic Pools",
+    "vertical": "Home Services",
+    "city": "Miami",
+    "phone": "+1 786-251-2470",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "663 reviews, 5.0 local result; strongest service-business fit in cohort.",
+    "services": [
+      "Local Service",
+      "Quote Requests",
+      "Customer Support"
+    ],
+    "cta": "Request a Quote"
+  },
+  {
+    "business_name": "Auto Pro Body and Paint Shop",
+    "vertical": "Auto/Home Service",
+    "city": "Miami",
+    "phone": "+1 786-565-7776",
+    "email": "autoprosolutions@gmail.com",
+    "rating": null,
+    "verified_observation": "Strong service value; Google-site-only presence is a strong rebuild angle.",
+    "services": [
+      "Local Service",
+      "Quote Requests",
+      "Customer Support"
+    ],
+    "cta": "Request a Quote"
+  },
+  {
+    "business_name": "Perez Dental Group Inc",
+    "vertical": "Professional Services",
+    "city": "Miami",
+    "phone": "+1 786-360-3694",
+    "email": "perezdentalgroupinc@gmail.com",
+    "rating": null,
+    "verified_observation": "Active Florida corporation; high-value appointment business.",
+    "services": [
+      "Professional Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "Taylor & Sons Roofing & Construction",
+    "vertical": "Home Services",
+    "city": "Miami",
+    "phone": "+1 561-944-7586",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "4.9 with 165 reviews; 24-hour listing; high-ticket roofing.",
+    "services": [
+      "Local Service",
+      "Quote Requests",
+      "Customer Support"
+    ],
+    "cta": "Request a Quote"
+  },
+  {
+    "business_name": "Gran Shawarma",
+    "vertical": "Restaurant",
+    "city": "Miami",
+    "phone": "+1 786-221-7221",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Late-night food-truck concept; useful direct-order/menu preview angle.",
+    "services": [
+      "Menu & Offerings",
+      "Ordering Information",
+      "Location & Hours"
+    ],
+    "cta": "View Menu / Order"
+  },
+  {
+    "business_name": "Fonda Sabaneta Calle 8",
+    "vertical": "Restaurant",
+    "city": "Miami",
+    "phone": "+1 786-615-5595",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Large review base but Linktree-style web presence; preview can consolidate locations/menu/order.",
+    "services": [
+      "Menu & Offerings",
+      "Ordering Information",
+      "Location & Hours"
+    ],
+    "cta": "View Menu / Order"
+  },
+  {
+    "business_name": "Elite Barbershop Doral",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-639-8260",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "4.9 local rating, 495 reviews; booking-first preview angle.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "The Barber Club Kendall",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-245-1262",
+    "email": "Not reliably surfaced",
+    "rating": null,
+    "verified_observation": "Owner-led shop; booking/call-to-action preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "The Side Chick",
+    "vertical": "Restaurant",
+    "city": "Miami",
+    "phone": "+1 305-565-9376",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "638 local reviews; direct-order/menu/catering preview angle.",
+    "services": [
+      "Menu & Offerings",
+      "Ordering Information",
+      "Location & Hours"
+    ],
+    "cta": "View Menu / Order"
+  },
+  {
+    "business_name": "Hate Mondays Tavern",
+    "vertical": "Restaurant",
+    "city": "Miami",
+    "phone": "+1 305-378-4900",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Owner-led local concept; catering/menu preview angle.",
+    "services": [
+      "Menu & Offerings",
+      "Ordering Information",
+      "Location & Hours"
+    ],
+    "cta": "View Menu / Order"
+  },
+  {
+    "business_name": "El Nuevo Orgullo Catracho",
+    "vertical": "Restaurant",
+    "city": "Miami",
+    "phone": "+1 305-643-3226",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Long-running Calle Ocho business; consolidate menu/location/social proof.",
+    "services": [
+      "Menu & Offerings",
+      "Ordering Information",
+      "Location & Hours"
+    ],
+    "cta": "View Menu / Order"
+  },
+  {
+    "business_name": "Pink Dream Nails & Beauty - Cutler Bay",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 786-542-4794",
+    "email": "Not found in pass 1",
+    "rating": null,
+    "verified_observation": "Appointment business; booking-first preview angle.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Flyy City Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-502-8022",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~300 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Florida Fresh Cuts",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-215-0479",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "5.0 with 250+ reviews; strong local proof, no standalone site surfaced.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "My Dream Unisex",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 305-225-4305",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "5.0 with ~200 reviews; appointment-first preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Dazzle Style Barber Shop #3",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-536-4582",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 200+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Alora Beauty Miami",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 786-953-6495",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 200+ reviews; premium salon preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "305 clippers Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-264-4766",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 200+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Visage Hair Salon & Spa",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 305-412-0655",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~180 reviews; service/menu + appointment preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Mis Gemelas Beauty Salon",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 786-431-5084",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.8 with 200+ reviews; appointment preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Heisenbeard Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-363-2668",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "5.0 with 150+ reviews; high-trust booking preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "FRESH & FADED BARBERSHOP",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-542-6466",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~190 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Dominican beauty salon by alma",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 786-534-3327",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~190 reviews; appointment-first preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Blade Barbershop Kendall",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-703-6933",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.4 with ~390 reviews; high review volume, weak web wedge.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "West Flagler Barber Shop Miami Fl",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-541-5417",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.8 with 160+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Roland Barber shop & Beauty Salon",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-536-4894",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 140+ reviews; combined barber/beauty booking preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Master 9 Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-953-8348",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~150 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "L305 Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-536-4544",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 160+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Asael barber shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-360-3155",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 160+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Yayo Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-225-0499",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with ~180 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "The Art Of Fading Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-534-5312",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 130+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Style Forever Salon & Spa",
+    "vertical": "Beauty/Booking",
+    "city": "Miami",
+    "phone": "+1 305-553-5400",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 120+ reviews; service/booking preview.",
+    "services": [
+      "Beauty Services",
+      "Appointments",
+      "Client Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Ricky Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-220-6800",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with 130+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Kings Of Thrones Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-534-6904",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with 170+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Juan Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-221-9535",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.9 with ~140 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Denny's Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-551-9721",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.6 with ~200 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Yankee's Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-225-5656",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with 130+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Extreme Cuts 2",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-229-9440",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with ~150 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Dazzle Style Barber Shop #1",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-225-1180",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with ~150 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Cesar Bike Barber Shop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-551-8777",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.7 with ~140 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "La Barberia - The Original Cuban Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-226-5577",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.6 with 130+ reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Cuban 305 barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-536-4677",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.5 with ~140 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Twin Scissors Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 786-534-9080",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.5 with ~130 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Gentlemens Quarters Barbershop",
+    "vertical": "Barber/Booking",
+    "city": "Miami",
+    "phone": "+1 305-223-4300",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "4.3 with ~150 reviews; booking-first preview.",
+    "services": [
+      "Haircuts & Grooming",
+      "Appointments",
+      "Local Shop Information"
+    ],
+    "cta": "Book an Appointment"
+  },
+  {
+    "business_name": "Aqua Coin Laundry",
+    "vertical": "Local Service",
+    "city": "Miami",
+    "phone": "+1 305-553-6788",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "260+ reviews; location/hours/services + pickup/delivery inquiry preview.",
+    "services": [
+      "Local Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "The Laundry Room",
+    "vertical": "Local Service",
+    "city": "Miami",
+    "phone": "+1 305-264-3232",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "240+ reviews; local service conversion preview.",
+    "services": [
+      "Local Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "Wash House Coin Laundry",
+    "vertical": "Local Service",
+    "city": "Miami",
+    "phone": "+1 305-223-4520",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "200+ reviews; local service preview.",
+    "services": [
+      "Local Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "Rush Laundry",
+    "vertical": "Local Service",
+    "city": "Miami",
+    "phone": "+1 305-226-7070",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "200+ reviews; local service preview.",
+    "services": [
+      "Local Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  },
+  {
+    "business_name": "Big Wash LLC",
+    "vertical": "Local Service",
+    "city": "Miami",
+    "phone": "+1 305-221-4322",
+    "email": "Not found in pass",
+    "rating": null,
+    "verified_observation": "190+ reviews; local service preview.",
+    "services": [
+      "Local Services",
+      "Customer Information",
+      "Contact & Directions"
+    ],
+    "cta": "Contact Us"
+  }
+]
