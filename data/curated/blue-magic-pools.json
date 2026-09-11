@@ -1,0 +1,48 @@
+{
+  "slug": "blue-magic-pools",
+  "businessName": "Blue Magic Pools",
+  "brandLine": "blue magic",
+  "brandDescriptor": "POOLS · MIAMI, FLORIDA",
+  "city": "Miami, Florida",
+  "phone": "+17862512470",
+  "phoneDisplay": "(786) 251-2470",
+  "specialty": "POOL LEAK DETECTION & REPAIR",
+  "heroLine1": "Back to",
+  "heroLine2": "blue.",
+  "heroDescription": "Your pool should be a place to switch off. Not another thing to worry about. Pool leak detection and repairs with Blue Magic Pools in Miami.",
+  "template": "pool-editorial",
+  "publish": true,
+  "outreachApproved": false,
+  "factsCheckedOn": "2026-09-11",
+  "sources": [
+    {"url": "https://nextdoor.com/pages/blue-magic-pools-miami-fl/", "supports": "Business name, Miami location, phone, specialization in pool leaks; resident account of main drain leak repair."},
+    {"url": "https://local.yahoo.com/info-88737751-blue-magic-pools-miami/", "supports": "Matching phone and location, specialization in pool leaks; Yelp excerpts including skimmer replacement and leak repair."},
+    {"url": "https://www.yellowpages.com/nationwide/mip/blue-magic-pool-nic-services-corp-462544370", "supports": "Matching phone, leak-detecting service and customer review excerpt."}
+  ],
+  "excludedClaims": ["Unverified 663/665 Google review count", "BBB profile in Coral Springs belongs to a different phone/business", "Owner name", "Guaranteed completion times", "Free estimates", "License numbers", "Business-owned portfolio photography", "Online appointment availability"],
+  "services": [
+    {"title": "Pool leak detection", "text": "A dropping water level deserves a closer look. Speak with a pool-leak specialist about finding the source of the problem.", "asset": "water", "sourceIndex": 0},
+    {"title": "Pool leak repairs", "text": "Already know there is a leak? Discuss the findings, the repair needed, and the next step for your pool.", "asset": "hero", "sourceIndex": 1},
+    {"title": "Skimmer & drain leaks", "text": "Pool leaks can involve more than the visible surface. Ask about the skimmer or drain issue you are seeing.", "asset": "lifestyle", "sourceIndex": 1}
+  ],
+  "reviews": [
+    {"text": "Their team is highly experienced and handled the issue professionally and promptly.", "author": "Simon O.", "platform": "Yelp via Yahoo Local", "dateLabel": "May 2024", "date": "2024-05-12", "url": "https://local.yahoo.com/info-88737751-blue-magic-pools-miami/"},
+    {"text": "Very fast and friendly service A+ definitely will use again.", "author": "Dk M.", "platform": "Yellow Pages", "dateLabel": "September 2020", "date": "2020-09-08", "url": "https://www.yellowpages.com/nationwide/mip/blue-magic-pool-nic-services-corp-462544370"}
+  ],
+  "concerns": [
+    {"label": "Losing water", "title": "Start with what you have noticed.", "text": "Before calling, note when the water loss started and how often you have been topping up the pool. Share any recent repairs or changes. These details can help you explain the issue clearly."},
+    {"label": "A known leak", "title": "Bring the findings, not the guesswork.", "text": "Have an inspection report or know where the leak is? Keep those details handy when you call to discuss repair options. Scope, access, timing, and price need to be confirmed with the business."},
+    {"label": "Not quite sure", "title": "You do not need to diagnose it first.", "text": "Describe what seems different about your pool and ask whether a leak evaluation is the right next step. A conversation is a good place to begin; this website does not diagnose pool problems."}
+  ],
+  "faqs": [
+    {"question": "What should I mention when I call?", "answer": "Describe the issue, when you first noticed it, your location, and any recent pool work. Have previous inspection findings available when relevant. The business can confirm what information is needed next."},
+    {"question": "Can I discuss a leak that was already located?", "answer": "Yes, you can call to discuss an existing leak and potential repairs. Share the findings you have. Blue Magic Pools will need to confirm the job scope and whether it is a service they can provide for your pool."},
+    {"question": "Do you cover my neighborhood?", "answer": "Blue Magic Pools is listed in Miami. Call with your address to confirm coverage, availability, and any visit requirements before arranging service."},
+    {"question": "How do I get a price or arrange a visit?", "answer": "Call (786) 251-2470 to discuss the issue. Pricing, availability, and appointments are arranged directly with the business. There is no payment or booking form on this concept site."}
+  ],
+  "assets": [
+    {"key": "hero", "file": "pool-hero.webp", "url": "https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?fit=crop&w=1920&q=82&fm=webp", "alt": "Sunlit swimming pool and outdoor lounge setting, stock lifestyle photograph", "type": "stock", "license": "https://unsplash.com/license"},
+    {"key": "water", "file": "pool-water.webp", "url": "https://images.unsplash.com/photo-1572331165267-854da2b10ccc?fit=crop&w=1000&q=82&fm=webp", "alt": "Swimming pool water and poolside detail, stock photograph", "type": "stock", "license": "https://unsplash.com/license"},
+    {"key": "lifestyle", "file": "pool-lifestyle.webp", "url": "https://images.unsplash.com/photo-1683636799861-4372af89d47b?fit=crop&w=1000&q=82&fm=webp", "alt": "Palm trees overlooking a swimming pool, stock lifestyle photograph", "type": "stock", "license": "https://unsplash.com/license"}
+  ]
+}
