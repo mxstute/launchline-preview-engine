@@ -1,0 +1,4 @@
+/* Keep native hidden semantics when component display styles are present. */
+[hidden] { display: none !important; }
+/* The motion control must sit above the full-height hero content layer. */
+.motion-control { z-index: 3; }
