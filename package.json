@@ -4,10 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/test-v2.mjs && node src/build-v2.mjs",
+    "build": "node scripts/test-v2.mjs && node src/v2/build.mjs",
     "test": "node scripts/test-v2.mjs",
+    "test:browser": "node scripts/qa-browser-v2.mjs",
     "generate": "node src/generate.mjs",
-    "generate:v2": "node src/build-v2.mjs",
+    "generate:v2": "node src/v2/build.mjs",
     "serve": "node src/serve.mjs"
   },
   "engines": {"node": ">=22"}
