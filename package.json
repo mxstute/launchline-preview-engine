@@ -1,11 +1,14 @@
 {
   "name": "launchline-preview-first-engine",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
+    "build": "node scripts/test-v2.mjs && node src/build-v2.mjs",
+    "test": "node scripts/test-v2.mjs",
     "generate": "node src/generate.mjs",
+    "generate:v2": "node src/build-v2.mjs",
     "serve": "node src/serve.mjs"
   },
-  "engines": {"node": ">=18"}
+  "engines": {"node": ">=22"}
 }
